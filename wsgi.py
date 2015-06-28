@@ -95,8 +95,7 @@ class Hello(object):
     <br />程冠霖<br />
 
     <a href="drawspur">期末2nd個人齒輪嚙合</a>  <br />
-    <a href="drawspur2">期末2nd協同齒輪嚙合</a>  <br />
-    <a href="man">lego個別部位組立</a><br /></h1>
+
 
 
        
